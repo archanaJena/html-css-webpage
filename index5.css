@@ -1,0 +1,58 @@
+body {
+  background-color: black;
+}
+.div1 {
+  color: rgb(142, 236, 65);
+  line-height: 10px;
+  margin: 30px;
+}
+.div1 h1 {
+  font-size: 2cm;
+}
+.div1 p {
+  font-size: 0.5cm;
+}
+.div2 {
+  position: relative;
+  float: left;
+  color: rgb(142, 236, 65);
+  line-height: 30px;
+  font-size: 0.5cm;
+}
+.div3 {
+  color: white;
+  border-style: solid;
+  width: 12cm;
+  position: relative;
+  float: right;
+  padding: 10px;
+}
+.div4 {
+  color: rgb(142, 236, 65);
+  position: absolute;
+  bottom: 8cm;
+  margin-left: 20px;
+}
+.div4 p {
+  font-size: 17px;
+}
+.div5 {
+  color: rgb(142, 236, 65);
+  position: absolute;
+  bottom: 5cm;
+  margin-left: 20px;
+}
+.div5 h2 {
+  font-size: xx-large;
+}
+.div5 p {
+  font-size: 17px;
+}
+.div6 {
+  color: white;
+  position: absolute;
+  bottom: 2cm;
+  border-style: solid;
+  margin-left: 20px;
+  font-size: 0.5cm;
+}
